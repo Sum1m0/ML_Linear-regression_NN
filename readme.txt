@@ -1,0 +1,1 @@
+the code is implemented in Python language. The version is Python 3.12.6, involved packages include numpy,sklearn，matplotlib，pandas，random，softmax
